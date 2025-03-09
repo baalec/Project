@@ -1,0 +1,9 @@
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	dendrite morphogenesis	RT		3	13.0	1.2E-2	1.0E0
+	GOTERM_BP_DIRECT	chitin-based cuticle development	RT		3	13.0	2.5E-2	1.0E0
+	GOTERM_BP_DIRECT	G1/S transition of mitotic cell cycle	RT		2	8.7	2.6E-2	1.0E0
+	GOTERM_BP_DIRECT	positive regulation of cell migration	RT		2	8.7	2.8E-2	1.0E0
+	GOTERM_BP_DIRECT	glial cell migration	RT		2	8.7	4.9E-2	1.0E0
+	GOTERM_BP_DIRECT	neuron remodeling	RT		2	8.7	6.6E-2	1.0E0
+	GOTERM_BP_DIRECT	mitotic spindle organization	RT		2	8.7	7.3E-2	1.0E0
+	GOTERM_BP_DIRECT	germ cell development	RT		2	8.7	7.9E-2	1.0E0

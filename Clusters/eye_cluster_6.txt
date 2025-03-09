@@ -1,0 +1,22 @@
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	phototransduction	RT		6	50.0	1.6E-10	1.0E-8
+	GOTERM_BP_DIRECT	visual perception	RT		6	50.0	4.6E-10	1.5E-8
+	GOTERM_BP_DIRECT	cellular response to light stimulus	RT		4	33.3	1.9E-7	4.0E-6
+	GOTERM_BP_DIRECT	response to light stimulus	RT		4	33.3	8.7E-7	1.4E-5
+	GOTERM_BP_DIRECT	calcium-mediated signaling	RT		3	25.0	4.9E-5	6.3E-4
+	GOTERM_BP_DIRECT	sensory perception of sound	RT		3	25.0	1.3E-3	1.4E-2
+	GOTERM_BP_DIRECT	cellular response to anoxia	RT		2	16.7	1.6E-3	1.4E-2
+	GOTERM_BP_DIRECT	detection of light stimulus involved in sensory perception	RT		2	16.7	2.3E-3	1.7E-2
+	GOTERM_BP_DIRECT	detection of UV	RT		2	16.7	2.3E-3	1.7E-2
+	GOTERM_BP_DIRECT	phototransduction, UV	RT		2	16.7	3.9E-3	2.5E-2
+	GOTERM_BP_DIRECT	positive regulation of clathrin-dependent endocytosis	RT		2	16.7	4.6E-3	2.5E-2
+	GOTERM_BP_DIRECT	phospholipase C-activating opsin-mediated signaling pathway	RT		2	16.7	4.6E-3	2.5E-2
+	GOTERM_BP_DIRECT	detection of light stimulus involved in visual perception	RT		2	16.7	5.4E-3	2.7E-2
+	GOTERM_BP_DIRECT	regulation of cytosolic calcium ion concentration	RT		2	16.7	6.2E-3	2.7E-2
+	GOTERM_BP_DIRECT	G protein-coupled receptor signaling pathway	RT		3	25.0	6.3E-3	2.7E-2
+	GOTERM_BP_DIRECT	phototransduction, visible light	RT		2	16.7	7.7E-3	3.1E-2
+	GOTERM_BP_DIRECT	entrainment of circadian clock by photoperiod	RT		2	16.7	9.3E-3	3.5E-2
+	GOTERM_BP_DIRECT	thermotaxis	RT		2	16.7	1.4E-2	4.9E-2
+	GOTERM_BP_DIRECT	calcium ion transmembrane transport	RT		2	16.7	2.5E-2	8.5E-2
+	GOTERM_BP_DIRECT	calcium ion transport	RT		2	16.7	3.8E-2	1.2E-1
+	GOTERM_BP_DIRECT	intracellular signal transduction	RT		2	16.7	9.9E-2	3.0E-1

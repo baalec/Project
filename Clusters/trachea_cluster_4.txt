@@ -1,0 +1,7 @@
+
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	chitin-based cuticle development	RT		5	20.0	5.4E-6	1.9E-4
+	GOTERM_BP_DIRECT	carbohydrate metabolic process	RT		3	12.0	2.7E-3	4.7E-2
+	GOTERM_BP_DIRECT	chitin catabolic process	RT		2	8.0	1.3E-2	1.4E-1
+	GOTERM_BP_DIRECT	ecdysis, chitin-based cuticle	RT		2	8.0	1.6E-2	1.4E-1
+	GOTERM_BP_DIRECT	wound healing	RT		2	8.0	5.1E-2	3.6E-1

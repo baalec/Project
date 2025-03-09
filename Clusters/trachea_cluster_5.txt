@@ -1,0 +1,7 @@
+
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	chitin-based cuticle development	RT		4	16.0	1.8E-3	1.4E-1
+	GOTERM_BP_DIRECT	regulation of mitotic spindle assembly	RT		2	8.0	1.3E-2	5.0E-1
+	GOTERM_BP_DIRECT	gonad development	RT		2	8.0	4.1E-2	9.8E-1
+	GOTERM_BP_DIRECT	regulation of mitotic cell cycle	RT		2	8.0	5.2E-2	9.8E-1
+	GOTERM_BP_DIRECT	chromosome organization	RT		2	8.0	7.9E-2	1.0E0

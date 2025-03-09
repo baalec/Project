@@ -1,0 +1,11 @@
+ublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	DNA integration	RT		3	21.4	2.4E-5	5.5E-4
+	GOTERM_BP_DIRECT	phospholipid dephosphorylation	RT		3	21.4	2.4E-5	5.5E-4
+	GOTERM_BP_DIRECT	DNA transposition	RT		3	21.4	3.6E-5	5.6E-4
+	GOTERM_BP_DIRECT	phospholipid metabolic process	RT		3	21.4	1.8E-4	2.1E-3
+	GOTERM_BP_DIRECT	DNA recombination	RT		3	21.4	3.2E-4	3.0E-3
+	GOTERM_BP_DIRECT	phototransduction	RT		3	21.4	7.6E-4	5.8E-3
+	GOTERM_BP_DIRECT	glycogen metabolic process	RT		2	14.3	8.5E-3	5.4E-2
+	GOTERM_BP_DIRECT	positive regulation of glycogen catabolic process	RT		2	14.3	9.4E-3	5.4E-2
+	GOTERM_BP_DIRECT	signal transduction	RT		3	21.4	2.9E-2	1.5E-1
+	GOTERM_BP_DIRECT	visual perception	RT		2	14.3	5.0E-2	2.3E-1

@@ -1,0 +1,3 @@
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	sperm axoneme assembly	RT		3	5.4	3.2E-3	2.2E-1
+	GOTERM_BP_DIRECT	sex differentiation	RT		2	3.6	8.1E-2	1.0E0

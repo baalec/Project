@@ -1,0 +1,5 @@
+Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	neurotransmitter transport	RT		2	8.0	3.8E-2	1.0E0
+	GOTERM_BP_DIRECT	amino acid transmembrane transport	RT		2	8.0	5.5E-2	1.0E0
+	GOTERM_BP_DIRECT	locomotor rhythm	RT		2	8.0	8.8E-2	1.0E0
+	GOTERM_BP_DIRECT	synapse organization	RT		2	8.0	9.2E-2	1.0E0

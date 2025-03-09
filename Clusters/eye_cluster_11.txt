@@ -1,0 +1,13 @@
+
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	visual perception	RT		5	55.6	2.9E-8	1.0E-6
+	GOTERM_BP_DIRECT	negative regulation of opsin-mediated signaling pathway	RT		3	33.3	2.6E-5	4.5E-4
+	GOTERM_BP_DIRECT	phototransduction	RT		3	33.3	3.9E-4	4.4E-3
+	GOTERM_BP_DIRECT	desensitization of G protein-coupled receptor signaling pathway	RT		2	22.2	1.2E-3	1.1E-2
+	GOTERM_BP_DIRECT	G protein-coupled receptor internalization	RT		2	22.2	2.5E-3	1.7E-2
+	GOTERM_BP_DIRECT	negative regulation of phospholipase C-activating phototransduction signaling pathway	RT		2	22.2	3.1E-3	1.7E-2
+	GOTERM_BP_DIRECT	phospholipase C-activating opsin-mediated signaling pathway	RT		2	22.2	3.7E-3	1.7E-2
+	GOTERM_BP_DIRECT	G protein-coupled receptor signaling pathway	RT		3	33.3	4.0E-3	1.7E-2
+	GOTERM_BP_DIRECT	photoreceptor cell maintenance	RT		2	22.2	1.2E-2	4.4E-2
+	GOTERM_BP_DIRECT	signal transduction	RT		3	33.3	1.6E-2	5.3E-2
+	GOTERM_BP_DIRECT	sensory perception of smell	RT		2	22.2	7.4E-2	2.3E-1

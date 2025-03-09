@@ -1,0 +1,2 @@
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	chitin-based cuticle development	RT		5	62.5	1.3E-7	6.7E-7

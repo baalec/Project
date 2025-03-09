@@ -1,0 +1,19 @@
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	inositol metabolic process	RT		3	7.3	1.2E-4	8.3E-3
+	GOTERM_BP_DIRECT	inositol biosynthetic process	RT		3	7.3	1.6E-4	8.3E-3
+	GOTERM_BP_DIRECT	phosphatidylinositol phosphate biosynthetic process	RT		3	7.3	2.2E-3	7.8E-2
+	GOTERM_BP_DIRECT	regulation of triglyceride biosynthetic process	RT		2	4.9	4.8E-3	1.0E-1
+	GOTERM_BP_DIRECT	cellular response to osmotic stress	RT		2	4.9	4.8E-3	1.0E-1
+	GOTERM_BP_DIRECT	sleep	RT		3	7.3	8.5E-3	1.5E-1
+	GOTERM_BP_DIRECT	stress-activated MAPK cascade	RT		2	4.9	9.6E-3	1.5E-1
+	GOTERM_BP_DIRECT	transmembrane transport	RT		5	12.2	1.2E-2	1.7E-1
+	GOTERM_BP_DIRECT	negative regulation of gene expression, epigenetic	RT		2	4.9	1.7E-2	2.0E-1
+	GOTERM_BP_DIRECT	sensory perception of chemical stimulus	RT		3	7.3	2.0E-2	2.2E-1
+	GOTERM_BP_DIRECT	response to salt stress	RT		2	4.9	2.6E-2	2.4E-1
+	GOTERM_BP_DIRECT	heterochromatin formation	RT		3	7.3	2.7E-2	2.4E-1
+	GOTERM_BP_DIRECT	mucosal immune response	RT		2	4.9	3.1E-2	2.5E-1
+	GOTERM_BP_DIRECT	sensory perception of smell	RT		3	7.3	3.6E-2	2.7E-1
+	GOTERM_BP_DIRECT	signal transduction	RT		4	9.8	4.1E-2	2.9E-1
+	GOTERM_BP_DIRECT	response to pheromone	RT		2	4.9	4.5E-2	3.0E-1
+	GOTERM_BP_DIRECT	cellular response to heat	RT		2	4.9	5.9E-2	3.6E-1
+	GOTERM_BP_DIRECT	courtship behavior	RT		2	4.9	6.1E-2	3.6E-1

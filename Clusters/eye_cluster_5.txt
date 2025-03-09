@@ -1,0 +1,33 @@
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	eye pigment precursor transport	RT		3	4.8	9.2E-5	2.3E-2
+	GOTERM_BP_DIRECT	aminergic neurotransmitter loading into synaptic vesicle	RT		3	4.8	1.5E-4	2.3E-2
+	GOTERM_BP_DIRECT	phototransduction	RT		4	6.5	9.5E-4	8.6E-2
+	GOTERM_BP_DIRECT	neurotransmitter secretion	RT		4	6.5	1.1E-3	8.6E-2
+	GOTERM_BP_DIRECT	transmembrane transport	RT		7	11.3	3.7E-3	2.3E-1
+	GOTERM_BP_DIRECT	guanine transport	RT		2	3.2	7.9E-3	3.9E-1
+	GOTERM_BP_DIRECT	synaptic assembly at neuromuscular junction	RT		3	4.8	8.9E-3	3.9E-1
+	GOTERM_BP_DIRECT	epithelial fluid transport	RT		2	3.2	1.6E-2	5.6E-1
+	GOTERM_BP_DIRECT	cellular response to caffeine	RT		2	3.2	2.0E-2	5.6E-1
+	GOTERM_BP_DIRECT	visual perception	RT		3	4.8	2.4E-2	5.6E-1
+	GOTERM_BP_DIRECT	detoxification	RT		2	3.2	2.4E-2	5.6E-1
+	GOTERM_BP_DIRECT	response to heat	RT		3	4.8	2.7E-2	5.6E-1
+	GOTERM_BP_DIRECT	synapse organization	RT		3	4.8	2.7E-2	5.6E-1
+	GOTERM_BP_DIRECT	cytoskeletal matrix organization at active zone	RT		2	3.2	2.7E-2	5.6E-1
+	GOTERM_BP_DIRECT	calcium ion import across plasma membrane	RT		2	3.2	2.7E-2	5.6E-1
+	GOTERM_BP_DIRECT	sensory perception of sound	RT		3	4.8	3.3E-2	6.3E-1
+	GOTERM_BP_DIRECT	proboscis extension reflex	RT		2	3.2	4.3E-2	6.9E-1
+	GOTERM_BP_DIRECT	chemical synaptic transmission	RT		3	4.8	4.4E-2	6.9E-1
+	GOTERM_BP_DIRECT	male courtship behavior	RT		3	4.8	4.4E-2	6.9E-1
+	GOTERM_BP_DIRECT	entrainment of circadian clock by photoperiod	RT		2	3.2	4.7E-2	6.9E-1
+	GOTERM_BP_DIRECT	entrainment of circadian clock	RT		2	3.2	5.0E-2	6.9E-1
+	GOTERM_BP_DIRECT	calcium-mediated signaling	RT		2	3.2	5.4E-2	6.9E-1
+	GOTERM_BP_DIRECT	xenobiotic metabolic process	RT		2	3.2	5.4E-2	6.9E-1
+	GOTERM_BP_DIRECT	terminal button organization	RT		2	3.2	5.4E-2	6.9E-1
+	GOTERM_BP_DIRECT	cellular response to light stimulus	RT		2	3.2	6.2E-2	7.3E-1
+	GOTERM_BP_DIRECT	associative learning	RT		2	3.2	6.2E-2	7.3E-1
+	GOTERM_BP_DIRECT	regulation of neurotransmitter secretion	RT		2	3.2	6.5E-2	7.4E-1
+	GOTERM_BP_DIRECT	regulation of circadian sleep/wake cycle, sleep	RT		2	3.2	7.3E-2	8.0E-1
+	GOTERM_BP_DIRECT	gravitaxis	RT		2	3.2	8.0E-2	8.5E-1
+	GOTERM_BP_DIRECT	sensory perception of smell	RT		3	4.8	8.6E-2	8.8E-1
+	GOTERM_BP_DIRECT	memory	RT		2	3.2	9.8E-2	9.4E-1
+	GOTERM_BP_DIRECT	courtship behavior	RT		2	3.2	9.8E-2	9.4E-1

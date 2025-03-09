@@ -1,0 +1,11 @@
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	visual perception	RT		4	26.7	1.5E-5	8.5E-4
+	GOTERM_BP_DIRECT	negative regulation of opsin-mediated signaling pathway	RT		3	20.0	5.1E-5	1.4E-3
+	GOTERM_BP_DIRECT	phototransduction	RT		3	20.0	7.6E-4	1.4E-2
+	GOTERM_BP_DIRECT	phototransduction, visible light	RT		2	13.3	8.5E-3	1.2E-1
+	GOTERM_BP_DIRECT	cellular response to light stimulus	RT		2	13.3	1.4E-2	1.5E-1
+	GOTERM_BP_DIRECT	phosphatidylinositol phosphate biosynthetic process	RT		2	13.3	2.4E-2	2.2E-1
+	GOTERM_BP_DIRECT	rhabdomere development	RT		2	13.3	3.1E-2	2.4E-1
+	GOTERM_BP_DIRECT	sensory perception of sound	RT		2	13.3	6.0E-2	3.8E-1
+	GOTERM_BP_DIRECT	protein localization	RT		2	13.3	6.3E-2	3.8E-1
+	GOTERM_BP_DIRECT	chemical synaptic transmission	RT		2	13.3	6.9E-2	3.8E-1

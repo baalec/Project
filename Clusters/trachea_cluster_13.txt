@@ -1,0 +1,7 @@
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	biological_process	RT		11	22.0	6.2E-3	2.3E-1
+	GOTERM_BP_DIRECT	lipid catabolic process	RT		3	6.0	1.3E-2	2.3E-1
+	GOTERM_BP_DIRECT	protein insertion into mitochondrial inner membrane from matrix	RT		2	4.0	1.9E-2	2.3E-1
+	GOTERM_BP_DIRECT	lipid metabolic process	RT		3	6.0	2.4E-2	2.3E-1
+	GOTERM_BP_DIRECT	microtubule-based process	RT		2	4.0	5.2E-2	3.6E-1
+	GOTERM_BP_DIRECT	cell differentiation	RT		3	6.0	5.8E-2	3.6E-1

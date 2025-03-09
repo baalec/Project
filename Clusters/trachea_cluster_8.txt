@@ -1,0 +1,20 @@
+Sublist	Category	Term	RT	Genes	Count	%	P-Value	Benjamini
+	GOTERM_BP_DIRECT	biological_process	RT		16	38.1	3.4E-6	1.9E-4
+	GOTERM_BP_DIRECT	dorsal vessel aortic cell fate commitment	RT		2	4.8	4.8E-3	1.1E-1
+	GOTERM_BP_DIRECT	specification of segmental identity, thorax	RT		2	4.8	9.6E-3	1.1E-1
+	GOTERM_BP_DIRECT	specification of animal organ identity	RT		2	4.8	1.2E-2	1.1E-1
+	GOTERM_BP_DIRECT	endoderm formation	RT		2	4.8	1.2E-2	1.1E-1
+	GOTERM_BP_DIRECT	microtubule-based movement	RT		3	7.1	1.2E-2	1.1E-1
+	GOTERM_BP_DIRECT	mesodermal cell fate specification	RT		2	4.8	1.4E-2	1.1E-1
+	GOTERM_BP_DIRECT	positive regulation of muscle organ development	RT		2	4.8	1.7E-2	1.2E-1
+	GOTERM_BP_DIRECT	muscle cell fate specification	RT		2	4.8	1.9E-2	1.2E-1
+	GOTERM_BP_DIRECT	open tracheal system development	RT		3	7.1	2.2E-2	1.2E-1
+	GOTERM_BP_DIRECT	regulation of cell fate specification	RT		2	4.8	2.6E-2	1.2E-1
+	GOTERM_BP_DIRECT	regulation of imaginal disc growth	RT		2	4.8	2.9E-2	1.2E-1
+	GOTERM_BP_DIRECT	haltere development	RT		2	4.8	2.9E-2	1.2E-1
+	GOTERM_BP_DIRECT	anterior Malpighian tubule development	RT		2	4.8	3.1E-2	1.2E-1
+	GOTERM_BP_DIRECT	cell fate determination	RT		2	4.8	3.3E-2	1.2E-1
+	GOTERM_BP_DIRECT	somatic muscle development	RT		2	4.8	6.1E-2	2.1E-1
+	GOTERM_BP_DIRECT	anterior/posterior pattern specification	RT		2	4.8	6.8E-2	2.2E-1
+	GOTERM_BP_DIRECT	protein import into mitochondrial matrix	RT		2	4.8	7.0E-2	2.2E-1
+	GOTERM_BP_DIRECT	midgut development	RT		2	4.8	7.9E-2	2.3E-1
